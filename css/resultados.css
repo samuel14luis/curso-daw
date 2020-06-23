@@ -1,0 +1,58 @@
+body {
+    background-image: url();
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    font-family: cursive;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+}
+
+.conten {
+    background: rgb(36, 214, 184);
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 30px;
+    height: auto;
+}
+
+.conten p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.conten h2 {
+    border-bottom: 1px solid #FFF;
+    color: #fff;
+}
+
+.conten a {
+    text-decoration: none;
+    background: #191919;
+    padding: 10px;
+    border-radius: 4px;
+    color: #fff;
+    margin-top: 6px;
+}
+
+.conten a:hover {
+    background: none;
+    border: 1px solid #191919;
+    color: #191919;
+}
+
+div h2 {
+    padding-top: 20px;
+    text-align: center;
+}
